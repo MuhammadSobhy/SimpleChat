@@ -10,3 +10,6 @@ Tech Stack:
 - Thymleaf
 - MyBatis
 - Selenium and JUnit
+
+Project is running on AWS EC2 instance.
+you can access on http://13.53.32.124:8080/login
