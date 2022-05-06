@@ -12,4 +12,4 @@ Tech Stack:
 - Selenium and JUnit
 
 Project is running on AWS EC2 instance.
-you can access on http://13.53.32.124:8080/login
+you can access on SimpleChatLB-89751074.eu-north-1.elb.amazonaws.com
